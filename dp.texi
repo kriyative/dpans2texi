@@ -14,7 +14,7 @@
 @end macro
 
 @macro subN {}
-@sub1{n}
+@subs{n}
 @end macro
 
 @macro tild {}
