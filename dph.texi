@@ -232,6 +232,12 @@
 @end html
 @end macro
 
+@macro subN {}
+@html
+<sub>n</sub>
+@end html
+@end macro
+
 @macro le {}
 ≤
 @end macro
